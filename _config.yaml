@@ -10,10 +10,10 @@ proofer: false
 links:
   email: miranda.researchlab@gmail.com
   #orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: ufSBBd8AAAAJ
   github: mirandaresearchlab
-  twitter: mirandaresearchlab
-  youtube: mirandaresearchlab
+  #twitter: mirandaresearchlab
+  #youtube: mirandaresearchlab
 
 ### jekyll settings
 

@@ -1,10 +1,10 @@
 ---
 name: Gisele Miranda
-image: images/photo.jpg
+image: images/GMiranda-2.jpg
 role: principal-investigator
 affiliation: KTH University
 # aliases:
-#   - J. Smith
+#   - G. Miranda
 #   - J Smith
 links:
   home-page: https://www.kth.se/profile/gmirand

@@ -52,3 +52,8 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+
+// Brighten the header background image
+.header {
+  filter: brightness(1.5);
+}

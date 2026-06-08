@@ -63,6 +63,50 @@
   publisher: Molecular Systems Biology
   date: '2026-03-27'
   link: https://doi.org/hbxfz5
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: /images/icon.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.ppat.1012709
+  title: Sustained immune activation and impaired epithelial barrier integrity in
+    the ectocervix of women with chronic HIV infection
+  authors:
+  - "Mathias Franz\xE9n Boger"
+  - Tyra Hasselrot
+  - Vilde Kaldhusdal
+  - Gisele H. B. Miranda
+  - Paulo Czarnewski
+  - Gabriella Edfeldt
+  - Frideborg Bradley
+  - Genta Rexaj
+  - Julie Lajoie
+  - Kenneth Omollo
+  - Joshua Kimani
+  - Keith R. Fowke
+  - Kristina Broliden
+  - Annelie Tjernlund
+  publisher: PLOS Pathogens
+  date: '2024-11-19'
+  link: https://doi.org/g8tqws
+  image: /images/icon.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jwpe.2024.105692
+  title: Evaluation of activated sludge settling characteristics from microscopy images
+    with deep convolutional neural networks and transfer learning
+  authors:
+  - Sina Borzooei
+  - Leonardo Scabini
+  - Gisele Miranda
+  - Saba Daneshgar
+  - Lukas Deblieck
+  - Odemir Bruno
+  - Piet De Langhe
+  - Bernard De Baets
+  - Ingmar Nopens
+  - Elena Torfs
+  publisher: Journal of Water Process Engineering
+  date: '2024-07-01'
+  link: https://doi.org/gt3fvd
+  image: /images/icon.png
   plugin: sources.py
   file: sources.yaml

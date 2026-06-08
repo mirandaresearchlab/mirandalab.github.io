@@ -32,14 +32,26 @@
 - id: doi:10.1038/s44320-026-00197-7
   type: paper
   image: /images/icon.png
+  tags:
+    - image-based profiling
+    - review
+    - CytoData
 
 - id: doi:10.1371/journal.ppat.1012709
   type: paper
   image: /images/icon.png
+  tags:
+    - image analysis
+    - computer vision
+    - mathematical morphology
 
 - id: doi:10.1016/j.jwpe.2024.105692
   type: paper
-  image: /images/icon.png
+  image: /images/monitoring.jpg
+  tags:
+    - image analysis
+    - deep learning
+    - transfer learning
 
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper

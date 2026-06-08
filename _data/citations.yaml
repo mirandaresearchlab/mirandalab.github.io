@@ -34,3 +34,33 @@
   repo: https://github.com/mirandaresearchlab/SCN-SAM
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s44320-026-00197-7
+  title: Progress and new challenges in image-based profiling
+  authors:
+  - Erik Serrano
+  - John Peters
+  - Jesko Wagner
+  - Rebecca E Graham
+  - Zhenghao Chen
+  - Brian Y Feng
+  - Gisele Miranda
+  - Alexandr A Kalinin
+  - Loan Vulliard
+  - Jenna Tomkinson
+  - Cameron Mattson
+  - Michael J Lippincott
+  - Ziqi Kang
+  - Divya Sitani
+  - Dave Bunten
+  - Srijit Seal
+  - Neil O Carragher
+  - Anne E Carpenter
+  - Shantanu Singh
+  - Paula A Marin Zapata
+  - Juan C Caicedo
+  - Gregory P Way
+  publisher: Molecular Systems Biology
+  date: '2026-03-27'
+  link: https://doi.org/hbxfz5
+  plugin: sources.py
+  file: sources.yaml

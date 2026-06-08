@@ -18,6 +18,7 @@
   publisher: Medical Imaging with Deep Learning (MIDL 2026) Validation Papers.
   date: '2026-04-14'
   link: https://openreview.net/forum?id=IiwDSw6EeN
+  image: https://openreview.net/pdf?id=IiwDSw6EeN
   description: 'A multicenter study investigating quantitative morphometric analysis
     of stratum corneum nanotexture as a biomarker for skin barrier function. The work
     evaluates the reproducibility and clinical utility of image-based measurements
@@ -31,7 +32,7 @@
   buttons:
   - type: website
     link: https://openreview.net/forum?id=IiwDSw6EeN
-  repo: https://github.com/mirandaresearchlab/SCN-SAM
+  repo: mirandaresearchlab/SCN-SAM
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s44320-026-00197-7
@@ -62,5 +63,6 @@
   publisher: Molecular Systems Biology
   date: '2026-03-27'
   link: https://doi.org/hbxfz5
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml

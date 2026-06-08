@@ -1,23 +1,55 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: custom:multicenter-morphometric-analysis-stratum-corneum-2026
+  title: "Multicenter Morphometric Analysis of Stratum Corneum Nanotexture for Skin Barrier Assessment"
+  authors:
+  - Jen-Hung Wang
+  - Chia-Yu Chu
+  - Felipe Colombelli
+  - Ching-Wen Du
+  - Maria Oberländer Christensen
+  - Jorge Pereda
+  - Ivone Jakasa
+  - Sanja Kezic
+  - Jacob Pontoppidan Thyssen
+  - Edwin Hwu
+  - Gisele Miranda
+  publisher: "Medical Imaging with Deep Learning (MIDL 2026) Validation Papers"
+  date: 2026-04-14
+  description: >
+  A multicenter study investigating quantitative morphometric analysis of stratum corneum nanotexture as a biomarker for skin barrier function. The work evaluates the reproducibility and clinical utility of image-based
+  measurements across multiple centers and cohorts.
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  - medical imaging
+  - morphometry
+  - machine learning
+  buttons:
+  - type: website
+    link: https://openreview.net/forum?id=IiwDSw6EeN
+  repo: https://github.com/mirandaresearchlab/SCN-SAM
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s44320-026-00197-7
+  #image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+#- id: doi:10.1371/journal.pcbi.1007128
+#  type: paper
+#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  date: 2020-12-4
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  buttons:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      text: Manuscript Source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#  tags:
+#    - open science
+#    - collaboration
+#  repo: greenelab/meta-review
+
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp

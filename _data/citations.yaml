@@ -65,6 +65,10 @@
   link: https://doi.org/hbxfz5
   type: paper
   image: /images/icon.png
+  tags:
+  - image-based profiling
+  - review
+  - CytoData
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.ppat.1012709
@@ -90,6 +94,10 @@
   link: https://doi.org/g8tqws
   type: paper
   image: /images/icon.png
+  tags:
+  - image analysis
+  - computer vision
+  - mathematical morphology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jwpe.2024.105692
@@ -110,6 +118,10 @@
   date: '2024-07-01'
   link: https://doi.org/gt3fvd
   type: paper
-  image: /images/icon.png
+  image: /images/monitoring.jpg
+  tags:
+  - image analysis
+  - deep learning
+  - transfer learning
   plugin: sources.py
   file: sources.yaml
